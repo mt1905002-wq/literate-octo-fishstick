@@ -1,0 +1,226 @@
+WRN: Decree 'armorer' top value rewards cannot be matched with equivalent objectives. This will result in uneven bounties. Consider adding more high value objectives or lowering the value of your rewards.
+* Top Rewards: armorer_rews.nether_chest (48000.0), armorer_rews.nether_legs (42000.0) total up to: 90000.0
+* Top Objs: _all_objs.c (32000.0) total up to: 32000.0
+WRN: Decree 'butcher' top value rewards cannot be matched with equivalent objectives. This will result in uneven bounties. Consider adding more high value objectives or lowering the value of your rewards.
+* Top Rewards: _all_rews.c (32000.0), _all_rews.b (19200.0) total up to: 51200.0
+* Top Objs: _all_objs.c (32000.0) total up to: 32000.0
+WRN: Decree 'cleric' top value rewards cannot be matched with equivalent objectives. This will result in uneven bounties. Consider adding more high value objectives or lowering the value of your rewards.
+* Top Rewards: _all_rews.c (32000.0), _all_rews.b (19200.0) total up to: 51200.0
+* Top Objs: _all_objs.c (32000.0) total up to: 32000.0
+WRN: Decree 'farmer' top value rewards cannot be matched with equivalent objectives. This will result in uneven bounties. Consider adding more high value objectives or lowering the value of your rewards.
+* Top Rewards: _all_rews.c (32000.0), _all_rews.b (19200.0) total up to: 51200.0
+* Top Objs: _all_objs.c (32000.0) total up to: 32000.0
+WRN: Decree 'fisherman' top value rewards cannot be matched with equivalent objectives. This will result in uneven bounties. Consider adding more high value objectives or lowering the value of your rewards.
+* Top Rewards: _all_rews.c (32000.0), _all_rews.b (19200.0) total up to: 51200.0
+* Top Objs: _all_objs.c (32000.0) total up to: 32000.0
+WRN: Decree 'fletcher' top value rewards cannot be matched with equivalent objectives. This will result in uneven bounties. Consider adding more high value objectives or lowering the value of your rewards.
+* Top Rewards: _all_rews.c (32000.0), _all_rews.b (19200.0) total up to: 51200.0
+* Top Objs: _all_objs.c (32000.0) total up to: 32000.0
+WRN: Decree 'inventor' top value rewards cannot be matched with equivalent objectives. This will result in uneven bounties. Consider adding more high value objectives or lowering the value of your rewards.
+* Top Rewards: _all_rews.c (32000.0), _all_rews.b (19200.0) total up to: 51200.0
+* Top Objs: _all_objs.c (32000.0) total up to: 32000.0
+WRN: Decree 'leatherer' top value rewards cannot be matched with equivalent objectives. This will result in uneven bounties. Consider adding more high value objectives or lowering the value of your rewards.
+* Top Rewards: _all_rews.c (32000.0), _all_rews.b (19200.0) total up to: 51200.0
+* Top Objs: _all_objs.c (32000.0) total up to: 32000.0
+WRN: Decree 'librarian' top value rewards cannot be matched with equivalent objectives. This will result in uneven bounties. Consider adding more high value objectives or lowering the value of your rewards.
+* Top Rewards: _all_rews.c (32000.0), _all_rews.b (19200.0) total up to: 51200.0
+* Top Objs: _all_objs.c (32000.0) total up to: 32000.0
+WRN: Decree 'mapper' top value rewards cannot be matched with equivalent objectives. This will result in uneven bounties. Consider adding more high value objectives or lowering the value of your rewards.
+* Top Rewards: _all_rews.c (32000.0), _all_rews.b (19200.0) total up to: 51200.0
+* Top Objs: _all_objs.c (32000.0) total up to: 32000.0
+WRN: Decree 'shepherd' top value rewards cannot be matched with equivalent objectives. This will result in uneven bounties. Consider adding more high value objectives or lowering the value of your rewards.
+* Top Rewards: _all_rews.c (32000.0), _all_rews.b (19200.0) total up to: 51200.0
+* Top Objs: _all_objs.c (32000.0) total up to: 32000.0
+WRN: Decree 'toolsmith' top value rewards cannot be matched with equivalent objectives. This will result in uneven bounties. Consider adding more high value objectives or lowering the value of your rewards.
+* Top Rewards: _all_rews.c (32000.0), _all_rews.b (19200.0) total up to: 51200.0
+* Top Objs: _all_objs.c (32000.0) total up to: 32000.0
+WRN: Bountiful reward pool entry is not valid!: _all_rews.a
+WRN: * entry failed type validation: (_all_rews.a - numismatic-overhaul:bronze_coin) details: {
+    "type": "minecraft:item",
+    "content": "numismatic-overhaul:bronze_coin",
+    "unitWorth": 100.0,
+    "weightMult": 0.3333333333333333,
+    "amount": {
+        "min": 1,
+        "max": 32
+    },
+    "forbids": [
+        {
+            "type": "minecraft:item",
+            "content": "numismatic-overhaul:bronze_coin"
+        },
+        {
+            "type": "minecraft:item",
+            "content": "numismatic-overhaul:silver_coin"
+        },
+        {
+            "type": "minecraft:item",
+            "content": "numismatic-overhaul:gold_coin"
+        }
+    ]
+}
+WRN: Bountiful reward pool entry is not valid!: _all_rews.b
+WRN: * entry failed type validation: (_all_rews.b - numismatic-overhaul:silver_coin) details: {
+    "type": "minecraft:item",
+    "rarity": "RARE",
+    "content": "numismatic-overhaul:silver_coin",
+    "unitWorth": 600.0,
+    "weightMult": 0.3333333333333333,
+    "amount": {
+        "min": 1,
+        "max": 32
+    },
+    "forbids": [
+        {
+            "type": "minecraft:item",
+            "content": "numismatic-overhaul:bronze_coin"
+        },
+        {
+            "type": "minecraft:item",
+            "content": "numismatic-overhaul:silver_coin"
+        },
+        {
+            "type": "minecraft:item",
+            "content": "numismatic-overhaul:gold_coin"
+        }
+    ]
+}
+WRN: Bountiful reward pool entry is not valid!: _all_rews.c
+WRN: * entry failed type validation: (_all_rews.c - numismatic-overhaul:gold_coin) details: {
+    "type": "minecraft:item",
+    "rarity": "LEGENDARY",
+    "content": "numismatic-overhaul:gold_coin",
+    "unitWorth": 1000.0,
+    "weightMult": 0.3333333333333333,
+    "amount": {
+        "min": 1,
+        "max": 32
+    },
+    "forbids": [
+        {
+            "type": "minecraft:item",
+            "content": "numismatic-overhaul:bronze_coin"
+        },
+        {
+            "type": "minecraft:item",
+            "content": "numismatic-overhaul:silver_coin"
+        },
+        {
+            "type": "minecraft:item",
+            "content": "numismatic-overhaul:gold_coin"
+        }
+    ]
+}
+WRN: Bountiful reward pool entry is not valid!: _all_objs.a
+WRN: * entry failed type validation: (_all_objs.a - numismatic-overhaul:bronze_coin) details: {
+    "type": "minecraft:item",
+    "content": "numismatic-overhaul:bronze_coin",
+    "unitWorth": 100.0,
+    "weightMult": 0.3333333333333333,
+    "amount": {
+        "min": 1,
+        "max": 32
+    },
+    "forbids": [
+        {
+            "type": "minecraft:item",
+            "content": "numismatic-overhaul:bronze_coin"
+        },
+        {
+            "type": "minecraft:item",
+            "content": "numismatic-overhaul:silver_coin"
+        },
+        {
+            "type": "minecraft:item",
+            "content": "numismatic-overhaul:gold_coin"
+        }
+    ]
+}
+WRN: Bountiful reward pool entry is not valid!: _all_objs.b
+WRN: * entry failed type validation: (_all_objs.b - numismatic-overhaul:silver_coin) details: {
+    "type": "minecraft:item",
+    "rarity": "RARE",
+    "content": "numismatic-overhaul:silver_coin",
+    "unitWorth": 600.0,
+    "weightMult": 0.3333333333333333,
+    "amount": {
+        "min": 1,
+        "max": 32
+    },
+    "forbids": [
+        {
+            "type": "minecraft:item",
+            "content": "numismatic-overhaul:bronze_coin"
+        },
+        {
+            "type": "minecraft:item",
+            "content": "numismatic-overhaul:silver_coin"
+        },
+        {
+            "type": "minecraft:item",
+            "content": "numismatic-overhaul:gold_coin"
+        }
+    ]
+}
+WRN: Bountiful reward pool entry is not valid!: _all_objs.c
+WRN: * entry failed type validation: (_all_objs.c - numismatic-overhaul:gold_coin) details: {
+    "type": "minecraft:item",
+    "rarity": "LEGENDARY",
+    "content": "numismatic-overhaul:gold_coin",
+    "unitWorth": 1000.0,
+    "weightMult": 0.3333333333333333,
+    "amount": {
+        "min": 1,
+        "max": 32
+    },
+    "forbids": [
+        {
+            "type": "minecraft:item",
+            "content": "numismatic-overhaul:bronze_coin"
+        },
+        {
+            "type": "minecraft:item",
+            "content": "numismatic-overhaul:silver_coin"
+        },
+        {
+            "type": "minecraft:item",
+            "content": "numismatic-overhaul:gold_coin"
+        }
+    ]
+}
+WRN: Bountiful reward pool entry is not valid!: librarian_rews.galo_barometer
+WRN: * entry failed type validation: (librarian_rews.galo_barometer - galosphere:barometer) details: {
+    "type": "minecraft:item",
+    "rarity": "RARE",
+    "content": "galosphere:barometer",
+    "unitWorth": 4000.0,
+    "weightMult": 0.0625,
+    "amount": {
+        "min": 1,
+        "max": 1
+    }
+}
+WRN: Bountiful reward pool entry is not valid!: _metal_objs.galo_silver_ingot
+WRN: * entry failed type validation: (_metal_objs.galo_silver_ingot - galosphere:silver_ingot) details: {
+    "type": "minecraft:item",
+    "rarity": "UNCOMMON",
+    "content": "galosphere:silver_ingot",
+    "unitWorth": 1500.0,
+    "weightMult": 0.07692307692307693,
+    "amount": {
+        "min": 2,
+        "max": 16
+    }
+}
+WRN: Bountiful reward pool entry is not valid!: _metal_objs.galo_silver_raw
+WRN: * entry failed type validation: (_metal_objs.galo_silver_raw - galosphere:raw_silver) details: {
+    "type": "minecraft:item",
+    "rarity": "UNCOMMON",
+    "content": "galosphere:raw_silver",
+    "unitWorth": 1450.0,
+    "weightMult": 0.07692307692307693,
+    "amount": {
+        "min": 2,
+        "max": 10
+    }
+}

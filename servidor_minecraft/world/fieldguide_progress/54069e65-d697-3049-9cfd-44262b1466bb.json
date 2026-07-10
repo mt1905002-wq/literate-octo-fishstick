@@ -1,0 +1,33 @@
+{
+  "unlocked": [
+    "entity:armageddon_mod/the_iron_colossus",
+    "entity:armageddon_mod/the_gobelin_lord",
+    "entity:armageddon_mod/eldoraththe_ancient_builder",
+    "entity:armageddon_mod/zoranththe_forgotten_one",
+    "entity:armageddon_mod/arion_tyrantofthe_emerald_wrath_ravager",
+    "entity:minecraft/wither"
+  ],
+  "seen": [],
+  "times": {
+    "entity:armageddon_mod/the_iron_colossus": 1783038006487,
+    "entity:armageddon_mod/the_gobelin_lord": 1783140223986,
+    "entity:armageddon_mod/eldoraththe_ancient_builder": 1783324265735,
+    "entity:armageddon_mod/zoranththe_forgotten_one": 1783366425229,
+    "entity:armageddon_mod/arion_tyrantofthe_emerald_wrath_ravager": 1783142378360,
+    "entity:minecraft/wither": 1783405011270
+  },
+  "gameTimes": {
+    "entity:armageddon_mod/the_iron_colossus": 107233,
+    "entity:armageddon_mod/the_gobelin_lord": 1013009,
+    "entity:armageddon_mod/eldoraththe_ancient_builder": 2178282,
+    "entity:armageddon_mod/zoranththe_forgotten_one": 2633562,
+    "entity:armageddon_mod/arion_tyrantofthe_emerald_wrath_ravager": 1086340,
+    "entity:minecraft/wither": 3576888
+  },
+  "customNames": {},
+  "customDescriptions": {},
+  "entryPhotographs": {},
+  "selectedVariants": {},
+  "journalTitle": "My Field Guide",
+  "journalPages": []
+}

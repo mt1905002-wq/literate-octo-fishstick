@@ -1,0 +1,113 @@
+[progression]
+	# Default: 1
+	# Range: 0 ~ 10
+	pointsPerLevel = 1
+
+[items]
+	spawnWithSkillsBook = true
+
+[maxLevels]
+	# Default: 10
+	# Range: 1 ~ 100
+	strength = 10
+	# Default: 5
+	# Range: 1 ~ 100
+	power = 5
+	# Default: 5
+	# Range: 1 ~ 100
+	crit_power = 5
+	# Default: 2
+	# Range: 1 ~ 100
+	haste = 2
+	# Default: 10
+	# Range: 1 ~ 100
+	resistance = 10
+	# Default: 5
+	# Range: 1 ~ 100
+	fire_resistance = 5
+	# Default: 5
+	# Range: 1 ~ 100
+	projectile_resistance = 5
+	# Default: 5
+	# Range: 1 ~ 100
+	knockback_resistance = 5
+	# Default: 10
+	# Range: 1 ~ 100
+	agility = 10
+	# Default: 5
+	# Range: 1 ~ 100
+	leaping = 5
+	# Default: 10
+	# Range: 1 ~ 100
+	vitality = 10
+	# Default: 5
+	# Range: 1 ~ 100
+	regeneration = 5
+	# Default: 5
+	# Range: 1 ~ 100
+	health_boost = 5
+	# Default: 5
+	# Range: 1 ~ 100
+	cleanse = 5
+	# Default: 10
+	# Range: 1 ~ 100
+	luck = 10
+	# Default: 2
+	# Range: 1 ~ 100
+	looting = 2
+	# Default: 2
+	# Range: 1 ~ 100
+	fortune = 2
+
+[scaling]
+	# Default: 0.5
+	# Range: 0.0 ~ 20.0
+	strengthDamagePerLevel = 0.5
+	# Default: 1.0
+	# Range: 0.0 ~ 20.0
+	powerDamagePerLevel = 1.0
+	# Default: 0.1
+	# Range: 0.0 ~ 20.0
+	critPowerDamagePerLevel = 0.1
+	# Default: 2.0
+	# Range: 0.0 ~ 20.0
+	hasteBreakSpeedPerLevel = 2.0
+	# Default: 0.05
+	# Range: 0.0 ~ 1.0
+	resistancePerLevel = 0.05
+	# Default: 0.05
+	# Range: 0.0 ~ 1.0
+	fireResistancePerLevel = 0.05
+	# Default: 0.05
+	# Range: 0.0 ~ 1.0
+	projectileResistancePerLevel = 0.05
+	# Default: 0.05
+	# Range: 0.0 ~ 1.0
+	knockbackResistancePerLevel = 0.05
+	# Default: 0.1
+	# Range: 0.0 ~ 2.0
+	agilitySpeedPerLevel = 0.1
+	# Default: 0.2
+	# Range: 0.0 ~ 2.0
+	leapingBonusPerLevel = 0.2
+	# Default: 0.05
+	# Range: 0.0 ~ 2.0
+	regenHeartsPerSecondPerLevel = 0.05
+	# Default: 1.0
+	# Range: 0.0 ~ 10.0
+	vitalityHeartsPerLevel = 1.0
+	# Default: 0.01
+	# Range: 0.0 ~ 1.0
+	lifeLeachPerLevel = 0.01
+	# Default: 0.05
+	# Range: 0.0 ~ 1.0
+	cleanseReductionPerLevel = 0.05
+	# Default: 1.0
+	# Range: 0.0 ~ 10.0
+	luckPerLevel = 1.0
+	# Default: 0.02
+	# Range: 0.0 ~ 1.0
+	lootingExtraDropChancePerLevel = 0.02
+	# Default: 1
+	# Range: 0 ~ 10
+	fortuneBonusPerLevel = 1

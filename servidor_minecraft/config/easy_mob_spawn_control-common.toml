@@ -1,0 +1,9 @@
+[config_v1]
+	#Banned mobs (ex: "minecraft:creeper", "minecraft:zombie"
+	bannedMobs = []
+	#Mob spawn rates (0.0–1.0, empty = default 1.0)
+	spawnRates = ["terra_entity:green_slime=0.5", "terra_entity:blue_slime=0.5", "minecraft:slime=0.5", "terra_entity:corrupt_slime=0.5"]
+
+	[config_v1.spawn_caps_config_v1]
+		#Per‑category spawn caps per chunk (ex: "monster=70", "creature=10"). Values outside 0–999 are ignored.
+		spawnCaps = ["water_creature=5", "underground_water_creature=5", "ambient=15", "axolotls=5", "undergarden:stupid=50", "creature=10", "water_ambient=20", "monster=60"]

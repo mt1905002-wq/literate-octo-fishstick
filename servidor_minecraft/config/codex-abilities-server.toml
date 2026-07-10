@@ -1,0 +1,81 @@
+[progression]
+	# Default: 5
+	# Range: 1 ~ 100
+	abilityPointLevelInterval = 5
+
+[general]
+	# Default: 1.0
+	# Range: 0.1 ~ 5.0
+	cooldownMultiplier = 1.0
+	# Default: 1.0
+	# Range: 0.0 ~ 5.0
+	primaryScalingMultiplier = 1.0
+	hudEnabled = true
+	hudTimerText = true
+	# Default: 5
+	# Range: 1 ~ 5
+	maxSlots = 5
+
+[abilities]
+	dash = true
+	leap = true
+	lunge = true
+	heal = true
+	cleanse = true
+	warcry = true
+	execution = true
+	cleave = true
+	guard = true
+	overpower = true
+	scavenger = true
+	blast = true
+	blaze = true
+	glacier = true
+	smite = true
+
+[maxRanks]
+	# Default: 3
+	# Range: 1 ~ 100
+	dash = 3
+	# Default: 3
+	# Range: 1 ~ 100
+	leap = 3
+	# Default: 3
+	# Range: 1 ~ 100
+	lunge = 3
+	# Default: 5
+	# Range: 1 ~ 100
+	heal = 5
+	# Default: 1
+	# Range: 1 ~ 100
+	cleanse = 1
+	# Default: 5
+	# Range: 1 ~ 100
+	warcry = 5
+	# Default: 4
+	# Range: 1 ~ 100
+	execution = 4
+	# Default: 4
+	# Range: 1 ~ 100
+	cleave = 4
+	# Default: 4
+	# Range: 1 ~ 100
+	guard = 4
+	# Default: 4
+	# Range: 1 ~ 100
+	overpower = 4
+	# Default: 2
+	# Range: 1 ~ 100
+	scavenger = 2
+	# Default: 5
+	# Range: 1 ~ 100
+	blast = 5
+	# Default: 2
+	# Range: 1 ~ 100
+	blaze = 2
+	# Default: 5
+	# Range: 1 ~ 100
+	glacier = 5
+	# Default: 5
+	# Range: 1 ~ 100
+	smite = 5
